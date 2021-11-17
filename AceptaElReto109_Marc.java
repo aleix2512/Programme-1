@@ -13,6 +13,7 @@ public class AceptaElReto109_Marc{
 		int partidosTotales;
 		int partidosRestantes;
 		String ganador;
+		int lliga;
 
 		while (true) {
 
